@@ -3,7 +3,7 @@ import { NewsCategory, NewsResponse } from "@/types/news";
 
 // NewsAPI base URL and endpoints
 const API_BASE_URL = "https://newsapi.org/v2";
-const API_KEY = "YOUR_API_KEY"; // In production, use environment variables
+const API_KEY = "d4431a13577547b3bebe1f23ebb0cf1f"; // Updated API key
 
 export interface NewsApiOptions {
   country?: string;
